@@ -1,5 +1,16 @@
 # warp
 # Learn HTML Canvas: Pixels & Physics
+O Java Script é uma ferramenta extremamente poderosa, e vamos explorar os segredos da arte e animação no front-end e desenvolvimento web atual.
+
+Nesse tutorial você vai começar aprendendo a desenhar um retângulo e uma imagem, e vai descobrir como transformar esses retângulos em um sistema de partículas inteligente que pode recriar e lembrar de formas, baseado no *pixel data* de qualquer imagem.
+
+Será demonstrado como aplicar a cada partícula propriedades físicas como por exemplo atrito e maleabilidade, e como fazer essas partículas interagirem com o mouse, quebrando e remodelando sua forma, e ao final automaticamente voltarem às suas posições iniciais.
+
+Em resumo você vai aprender a transformar imagens em arte interativa digital.
+
+Apesar de ser um curso introdutório ao `<canvas>` é necessário ter conhecimentos básicos de Java Script bem como de programação. 
+
+Mas ainda sim o curso é bem explicativo então mesmo que você não esteja familiarizado com a sintaxe da linguagem, ainda é possível entender completamente.
 
 Essa é uma tradução livre do conteúdo produzido pelo canal **Franks Laboratory,** antes de entrarmos no material em sí, gostaria primeiramente de agradecer em nome de todos que terão acesso a esse conteúdo, e que poderão estudar graças aos conhecimentos passados.
 
